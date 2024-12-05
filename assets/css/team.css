@@ -167,3 +167,12 @@
   background: #fff !important;
   border: 2px solid #f6ae31;
 }
+
+.download-buttons {
+  text-align: center;
+}
+.download-buttons img {
+  width: 80%;
+  max-width: 500px;
+  cursor: pointer;
+}
